@@ -26,8 +26,8 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 
-# Developed By: Kanishka V S
-# Register Number: 212222230061
+## Developed By: Kanishka V S
+## Register Number: 212222230061
 # Input Grayscale Image and Color Image:
 ```py
 import cv2
@@ -61,28 +61,15 @@ plt.show()
 equ = cv2.equalizeHist(gray_image)
 cv2.imshow("Equalized Image",equ)
 ```
-
-
-
-
-
 ## Output:
 ### Input Grayscale Image and Color Image:
-![WhatsApp Image 2024-03-12 at 11 26 45 AM](https://github.com/kanishka2305/Histogram-of-an-images/assets/113497357/2443b8d7-8955-4492-b299-6bb86b77a6b3)
-
-![WhatsApp Image 2024-03-12 at 11 26 46 AM](https://github.com/kanishka2305/Histogram-of-an-images/assets/113497357/0c5ad746-40cf-4faa-bdfa-ffa896c1614d)
-
-
+![image](https://github.com/kanishka2305/Histogram-of-an-images/assets/113497357/7aaaa316-3331-4627-8d8a-0bf5fb78dc95)
 
 ### Histogram of Grayscale Image and any channel of Color Image
-
-![WhatsApp Image 2024-03-12 at 11 26 57 AM](https://github.com/kanishka2305/Histogram-of-an-images/assets/113497357/bb1a8694-69eb-43b0-adf7-893c6653472a)
-
-![WhatsApp Image 2024-03-12 at 11 26 58 AM](https://github.com/kanishka2305/Histogram-of-an-images/assets/113497357/fab21ffe-c9d4-4090-90f8-a722d6369973)
+![image](https://github.com/kanishka2305/Histogram-of-an-images/assets/113497357/d0715e80-2d38-49c7-9390-87ba9f6e5e2b)
 
 ### Histogram Equalization of Grayscale Image.
-
-
+![image](https://github.com/kanishka2305/Histogram-of-an-images/assets/113497357/dab2a12e-fa77-42fd-824a-f2fa503c5d62)
 
 
 ## Result: 
